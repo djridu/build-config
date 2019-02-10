@@ -1,0 +1,19 @@
+{
+  "name": "build-config",
+  "version": "1.0.0",
+  "description": "build config",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djridu/build-config.git"
+  },
+  "author": "Max Zima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djridu/build-config/issues"
+  },
+  "homepage": "https://github.com/djridu/build-config#readme"
+}
